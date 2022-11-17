@@ -1,5 +1,5 @@
 # angular-dashboard-seed
-    This is BitWiz0108's project. It is not allowed to copy, edit, modify or release this project with out BItWiz0108's approval.
+    This is noki's project. It is not allowed to copy, edit, modify or release this project with out BItWiz0108's approval.
 
 ## Features
 * AngularJS
